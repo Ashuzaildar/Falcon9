@@ -1,4 +1,4 @@
-# IBM Applied Data Science Capstone Project
+# Data Science Capstone Falcon9 Project
 
 The PowerPoint slides for this project can be found at <a href="https://github.com/ZhengEnThan/IBM-Applied-Data-Science-Capstone-Project/blob/main/Capstone_Presentation.pptx" target="_blank">Capstone_Presentation.pptx</a> or <a href="https://github.com/ZhengEnThan/IBM-Applied-Data-Science-Capstone-Project/blob/main/Capstone_Presentation.pdf" target="_blank">Capstone_Presentation.pdf</a>.
 
@@ -187,4 +187,4 @@ In this project, we try to predict if the first stage of a given Falcon 9 launch
 
 Several machine learning algorithms are employed to learn the patterns of past Falcon 9 launch data to produce predictive models that can be used to predict the outcome of a Falcon 9 launch. The predictive model produced by decision tree algorithm performed the best among the 4 machine learning algorithms employed. 
 
-~ Project created in January 2022 ~
+~ Project created in October 2022 by Ashutosh Sharma ~
